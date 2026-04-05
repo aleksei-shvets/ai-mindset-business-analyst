@@ -1,0 +1,20 @@
+{
+  "name": "ai-mindset-business-analyst",
+  "description": "Product discovery & requirements analysis specialist with AI automation mindset (L0-L3 spectrum). Conducts stakeholder interviews, market research, and creates product briefs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Aleksei Shvets"
+  },
+  "license": "MIT",
+  "keywords": [
+    "business-analysis",
+    "product-discovery",
+    "requirements",
+    "product-brief",
+    "ai-automation",
+    "ai-mindset",
+    "stakeholder-interviews",
+    "market-research",
+    "competitive-analysis"
+  ]
+}
